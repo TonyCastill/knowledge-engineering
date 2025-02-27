@@ -1,0 +1,40 @@
+https://github.com/evertrol/pyke3?tab=readme-ov-file
+
+Condiciones para riesgo
+
+Bajo =>
+    Edad < 30
+
+Moderado => 
+    Edad >=30
+    Edad <=50
+
+ALto =>
+    Edad > 50
+
+POTENCIADORES
+    Estado de salud
+        Saludable
+        Diabetes
+        Hipertensión
+        Obesidad
+
+    Estilo de vida
+        Activa
+        Deportista
+        Fumador
+        Alcoholico
+
+    Ocupación
+        Oficina
+        Bombero
+        Minero
+        Piloto
+        Soldador
+
+    Historial Familiar (Si los familiares directos tienen enfermedades hereditarias)
+        True
+        False
+
+    Poliza de seguro
+
